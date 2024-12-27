@@ -64,9 +64,9 @@ Hello! I'm an emerging **DevOps Engineer** passionate about automation, continuo
 
 <div align="center">
   
-[![Abinove's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinove1999&show_icons=true&theme=radical)](https://github.com/Abinove1999)
+[![Abinove's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinove1999&show_icons=true&theme=radical)](https://github.com/abinoveramesh20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinove1999&layout=compact&theme=radical)](https://github.com/Abinove1999)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinove1999&layout=compact&theme=radical)](https://github.com/abinoveramesh20)
   
 </div>
 
