@@ -19,16 +19,16 @@ This repository showcases my expertise in modern development, deployment, and au
 ## 💻 **Tech Logos**
 Here are the logos for the technologies I love working with:
 
-![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg)  
-![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_logo.svg)  
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
-![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)  
-![Git](https://upload.wikimedia.org/wikipedia/commons/6/63/Git-logo.svg)  
-![Docker](https://upload.wikimedia.org/wikipedia/commons/4/47/Docker-logo.svg)  
-![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg)  
-![Terraform](https://upload.wikimedia.org/wikipedia/commons/7/72/Terraform_Logo.svg)  
-![Jenkins](https://upload.wikimedia.org/wikipedia/commons/4/4f/Jenkins_logo.svg)  
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_github.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" alt="PHP" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_logo.svg" alt="Laravel" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git-logo.svg" alt="Git" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker-logo.svg" alt="Docker" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg" alt="Kubernetes" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Terraform_Logo.svg" alt="Terraform" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Jenkins_logo.svg" alt="Jenkins" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_github.svg" alt="GitHub" width="50"/>
 
 ## 🔥 **What I'm Currently Focused On**
 - Automating development workflows using **Docker** and **Kubernetes**.
