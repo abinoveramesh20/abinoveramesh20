@@ -13,83 +13,83 @@ Welcome to my GitHub profile! Below is a list of my skills, expertise, and the t
 
 ### Web Development Project Deployment
 - **Node.js**  
-  ![Node.js](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-  
+  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="40"/>
+
 - **Laravel**  
-  ![Laravel](https://laravel.com/img/logomark.min.svg)
-  
+  <img src="https://laravel.com/img/logomark.min.svg" width="40"/>
+
 - **Angular**  
-  ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-  
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+
 - **React**  
-  ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>
+
 - **PHP**  
-  ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg" width="40"/>
 
 ### Database Management
 - **MongoDB**  
-  ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="40"/>
 
 - **MySQL**  
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL_logo.svg" width="40"/>
 
 - **PostgreSQL**  
-  ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" width="40"/>
 
 ### Monitoring Tools
 - **Grafana**  
-  ![Grafana](https://grafana.com/static/assets/img/logos/grafana/grafana_logo.svg)
+  <img src="https://grafana.com/static/assets/img/logos/grafana/grafana_logo.svg" width="40"/>
 
 - **Prometheus**  
-  ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/d/d2/Prometheus_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Prometheus_logo.svg" width="40"/>
 
 ### Infrastructure and Services
 - **Route 53**  
-  ![Route 53](https://d1.awsstatic.com/route53/Route53_Logo_Stacked_Color.178e3b1f55e7fe7c63590fa702d01d60.png)
+  <img src="https://d1.awsstatic.com/route53/Route53_Logo_Stacked_Color.178e3b1f55e7fe7c63590fa702d01d60.png" width="40"/>
 
 - **SSL (Let’s Encrypt)**  
-  ![Let’s Encrypt](https://upload.wikimedia.org/wikipedia/commons/a/a7/Let%27s_Encrypt_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Let%27s_Encrypt_logo.svg" width="40"/>
 
 - **Apache2**  
-  ![Apache2](https://upload.wikimedia.org/wikipedia/commons/8/87/Apache_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Apache_logo.svg" width="40"/>
 
 - **Nginx**  
-  ![Nginx](https://upload.wikimedia.org/wikipedia/commons/c/c3/Nginx_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Nginx_logo.svg" width="40"/>
 
 - **IIS**  
-  ![IIS](https://upload.wikimedia.org/wikipedia/commons/9/9a/IIS_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/IIS_logo.svg" width="40"/>
 
 ### Cloud Platforms
 - **AWS**  
-  ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/9b/Amazon_Web_Services_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Amazon_Web_Services_Logo.svg" width="40"/>
 
 ### CDN
 - **Cloudflare**  
-  ![Cloudflare](https://upload.wikimedia.org/wikipedia/commons/a/a1/Cloudflare_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Cloudflare_logo.svg" width="40"/>
 
 ### Automation and Configuration
 - **Terraform**  
-  ![Terraform](https://upload.wikimedia.org/wikipedia/commons/7/77/Terraform_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Terraform_Logo.svg" width="40"/>
 
 - **Crontab**  
-  ![Cron](https://upload.wikimedia.org/wikipedia/commons/a/ab/Cron_daemon_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cron_daemon_logo.svg" width="40"/>
 
 - **Webhooks**  
   *(No specific logo available)*
 
 - **Bash Scripting**  
-  ![Bash](https://upload.wikimedia.org/wikipedia/commons/a/a1/Bash_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Bash_Logo.svg" width="40"/>
 
 ### CI/CD
 - **GitHub Actions**  
-  ![GitHub Actions](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Actions_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Actions_Logo.svg" width="40"/>
 
 - **GitLab**  
-  ![GitLab](https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="40"/>
 
 - **Jenkins**  
-  ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/e/e5/Jenkins_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Jenkins_logo.svg" width="40"/>
 
 ### Asset Management
 - **Asset Management Tool**  
@@ -101,11 +101,11 @@ Welcome to my GitHub profile! Below is a list of my skills, expertise, and the t
 
 ### SonarQube
 - **SonarQube**  
-  ![SonarQube](https://upload.wikimedia.org/wikipedia/commons/d/d3/SonarQube_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SonarQube_logo.svg" width="40"/>
 
 ### GitHub Dependabot
 - **Dependabot**  
-  ![Dependabot](https://avatars.githubusercontent.com/u/179251?s=200&v=4)
+  <img src="https://avatars.githubusercontent.com/u/179251?s=200&v=4" width="40"/>
 
 ### Playing with AWS Services
 - I am constantly exploring and working with AWS services to enhance cloud-native solutions.
