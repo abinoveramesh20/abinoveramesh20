@@ -60,9 +60,75 @@ Welcome to my GitHub profile! Below is a list of my skills, expertise, and the t
 - **IIS**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/IIS_logo.svg" width="40"/>
 
-### Cloud Platforms
-- **AWS**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Amazon_Web_Services_Logo.svg" width="40"/>
+### AWS Services
+- **Amazon EC2**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Amazon_Web_Services_Logo.svg" width="40"/>
+
+- **Amazon EBS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amazon_EBS_logo.svg" width="40"/>
+
+- **Amazon EFS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Amazon_EFS_logo.svg" width="40"/>
+
+- **Amazon Route 53**  
+  <img src="https://d1.awsstatic.com/route53/Route53_Logo_Stacked_Color.178e3b1f55e7fe7c63590fa702d01d60.png" width="40"/>
+
+- **AWS CodeCommit**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Amazon_CodeCommit_logo.svg" width="40"/>
+
+- **AWS CodeBuild**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Amazon_CodeBuild_logo.svg" width="40"/>
+
+- **AWS CodeDeploy**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Amazon_CodeDeploy_logo.svg" width="40"/>
+
+- **AWS VPC**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Amazon_VPC_Logo.svg" width="40"/>
+
+- **AWS MSK**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Amazon_MSK_logo.svg" width="40"/>
+
+- **AWS NAT Gateway**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Amazon_NAT_Gateway_logo.svg" width="40"/>
+
+- **AWS ECS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_ECS_logo.svg" width="40"/>
+
+- **AWS WAF**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Amazon_WAF_logo.svg" width="40"/>
+
+- **AWS Security Groups**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/AWS_Security_Groups_logo.svg" width="40"/>
+
+- **Amazon RDS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Amazon_RDS_logo.svg" width="40"/>
+
+- **Elastic Load Balancer (ELB)**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Elastic_Load_Balancing_Logo.svg" width="40"/>
+
+- **AWS Budget Alert**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/AWS_Budget_Alert_logo.svg" width="40"/>
+
+- **Amazon SNS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Amazon_SNS_logo.svg" width="40"/>
+
+- **AWS Cloud9**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/AWS_Cloud9_logo.svg" width="40"/>
+
+- **AWS Cognito**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/AWS_Cognito_logo.svg" width="40"/>
+
+- **AWS CodePipeline**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Amazon_CodePipeline_logo.svg" width="40"/>
+
+- **AWS Network Firewall**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/AWS_Network_Firewall_logo.svg" width="40"/>
+
+- **AWS Secrets Manager**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/AWS_Secrets_Manager_logo.svg" width="40"/>
+
+- **Amazon EKS**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Amazon_EKS_logo.svg" width="40"/>
 
 ### CDN
 - **Cloudflare**  
@@ -113,6 +179,4 @@ Welcome to my GitHub profile! Below is a list of my skills, expertise, and the t
 ---
 
 ## Get in Touch
-Feel free to reach out if you'd like to collaborate on any projects or discuss new opportunities!
-
-Happy coding! ✨
+Feel free to reach out if you'd like to collaborate, contribute to any projects, or just chat about tech!
