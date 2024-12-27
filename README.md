@@ -52,3 +52,6 @@ Feel free to explore my repositories and projects. I'm always looking for new op
 ### Contact Me
 
 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com).
+
+![Apache](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apache_HTTP_Server_logo.svg/1200px-Apache_HTTP_Server_logo.svg.png)
+
