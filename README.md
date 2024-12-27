@@ -53,5 +53,5 @@ Feel free to explore my repositories and projects. I'm always looking for new op
 
 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com).
 
-![Apache](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apache_HTTP_Server_logo.svg/1200px-Apache_HTTP_Server_logo.svg.png)
+<img src="https://camo.githubusercontent.com/b0d3329477caea2d9a6180533cee1b0286fb766a3389a053e058f59ccb9321de/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34362f4170616368655f485454505f5365727665725f6c6f676f2e7376672f3132303070782d4170616368655f485454505f5365727665725f6c6f676f2e7376672e706e67" width="40"/>
 
