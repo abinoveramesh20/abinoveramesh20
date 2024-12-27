@@ -48,9 +48,9 @@ Hello! I'm an emerging **DevOps Engineer** passionate about automation, continuo
 
 Feel free to reach out if you'd like to collaborate or chat about DevOps, automation, or any of the technologies I work with!  
 
-📬 **Email:** [youremail@example.com](mailto:youremail@example.com)  
-🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [Your Twitter](https://twitter.com/yourprofile)
+📬 **Email:** [abinove1999@gmail.com](mailto:abinove1999@gmail.com)  
+🔗 **LinkedIn:** [Abinove Ramesh](https://www.linkedin.com/in/abinove-ramesh-0261321b3/)  
+🌐 **Portfolio:** [Abinove's Resume](https://abinoveramesh2000.wixsite.com/abinoveresume)
 
 ---
 
